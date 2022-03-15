@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "express": "*",
+    "body-parser":"*",
     "cors": "^2.8.5",
     "morgan": "^1.10.0"
   }
