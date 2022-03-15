@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+
+{
+    "name": "Imane Oumelk",
+    "number": "07-00-66-88-30" 
+}
